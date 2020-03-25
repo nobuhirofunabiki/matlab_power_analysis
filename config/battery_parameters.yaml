@@ -1,0 +1,15 @@
+cell:
+  voltage:
+    full: 4.20
+    exponential: 4.15
+    nominal: 3.30
+  capacity:
+    full: 3.30
+    exponential: 0.05
+    nominal: 2.50
+  internal_resistance: 0.03
+
+module:
+  series: 3
+  parallel: 2
+  cc_current: -2.0    # [A]: should be minus

@@ -1,0 +1,10 @@
+file_name:
+  power:
+    consumption: 'power_consumption_scenario-1.csv'
+    generation: 'power_generation_scenario-1.csv'
+
+time:
+  delta: 1.0
+
+efficiency:
+  sap_to_bus: 0.89
